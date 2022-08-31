@@ -1,0 +1,5 @@
+report/*
+*.parquet
+*.db
+*__pycache__*
+venv

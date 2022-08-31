@@ -1,0 +1,10 @@
+{
+    "URL_API": "http://de1.api.radio-browser.info/json/stations",
+    "db": {
+        "host":"jelani.db.elephantsql.com",
+        "database":"",
+        "user":"",
+        "password":"",
+        "port":5432
+    }
+}
